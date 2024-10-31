@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **[Your Name]**, I'm 14 years old, and I live in Russia. I'm passionate about development and try to learn something new every day. Most of my projects are related to Python, but I also experiment with other programming languages and technologies.
+My nickname is **quass**, I'm 14 years old, and I live in Russia. I'm passionate about development and try to learn something new every day. Most of my projects are related to Python, but I also experiment with other programming languages and technologies.
 
 ### About Me:
 
